@@ -8,7 +8,7 @@ body {
 	padding: 0;
 	background: #697281;
 	text-align: center;
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Cambria";
 	font-size: 13px;
 	color: #F1F5F8;
 	background-color:#2A2A2A;
@@ -54,7 +54,7 @@ color:#F6F6F6;
 text-align:left;
 font-size:40px;
 font-weight:bold;
-font-family:Arial, Helvetica, sans-serif;
+font-family:"Cambria";
 }
 
 #header h2
@@ -66,7 +66,7 @@ color:#2C2C2C;
 text-align:left;
 font-size:17px;
 font-weight:bold;
-font-family:Arial, Helvetica, sans-serif;
+font-family:"Cambria";
 }
 
 
@@ -167,7 +167,8 @@ border-bottom:1px dotted #2A2A2A;
 }
 
 
-#footer {
+#footer
+{
 width: 738px;
 height:53px;
 background: url(footer.png) no-repeat;
@@ -176,4 +177,5 @@ font-size:9px;
 color:#2A2A2A;
 padding-top:25px;
 }
+
 
